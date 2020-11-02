@@ -13,7 +13,7 @@ We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-0
 
 # Armor
 | Gear set | Weave DPS | Ranged DPS | Notes |
-| --- | --- | --- | --- |
+|---|---|---|---|
 | [P6 R12 MW, True](https://sixtyupgrades.com/set/3eyrLWdJfvxBSKiyRGV7cE) | 1407.4 | 1211.0 | 1528.1 with WF and WCB |
 | [P6 MW, Realistic](https://sixtyupgrades.com/set/qyzXyWwpmv3PidFcxqnR65) | 1394.3 | 1199.7 | 1474.7 with WF |
 | [P6 R12, True](https://sixtyupgrades.com/set/tpGfZE1SAThnieDcynaQHg) | | 1242.4 | |
@@ -25,7 +25,7 @@ We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-0
 # Weapons
 ## Melee Weaving Weapon DPS
 | Weapon | Normal Weave | Max Weave | Max with WCB |
-| --- | --- | --- | --- |
+|---|---|---|---|
 | Barbarous Blade (baseline) | +0 (1311) | +0 (1360) | |
 | Lok'delar / Peacemaker | +4 (1315) | +11 (1371) | |
 | Huntsman's Harpoon | +17 (1328) | +2 (1362) | |
@@ -35,7 +35,7 @@ We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-0
 | Barb of the Sand Reaver | +40 (1351) | +27 (1387) | +63 (1423) |
 | Eye of Nerub | +57 (1368) | +47 (1407) | +85 (1445) |
 
-This table changes very little from p5 -> p6 for normal weavers.  For hunters max weaving, the faster attack speed on KT xbow actually shifts the relative strength of a couple weapons, favoring weapons which delay your max weave rotation less.  This is most apparent in that Gril'leks actually loses out to Ashkandi (with and without Warchief's Blessing) even against Dragonkin weapon due to its insanely slow speed delaying your ranged shots. 
+This table changes very little from p5 -> p6 for normal weavers.  For hunters max weaving, the faster attack speed on KT xbow actually shifts the relative strength of a couple weapons, favoring weapons which delay your max weave rotation less.  This is most apparent in that Gril'leks actually loses out to Ashkandi--with and without Warchief's Blessing, even against Dragonkin--due to its insanely slow speed delaying your ranged shots. 
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
