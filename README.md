@@ -32,8 +32,8 @@ Some hunters floated the idea of weaving with dual-wielded weapons in phase 6 du
 |---|---|---|---|
 | Eye of Nerub | +57 <!--1368--> | +47 <!--1407--> | +85 <!--1445--> |
 | Severence _(Orc)_ <sup>[1](#severance)</sup> | +40 | +60 | +54 |
-| Corrupted Ashbringer | +40 <!--1351--> | +42 <!--1402--> | +61 <!--1431--> |
 | Barb of the Sand Reaver | +40 <!--1351--> | +27 <!--1387--> | +63 <!--1423--> |
+| Corrupted Ashbringer | +40 <!--1351--> | +42 <!--1402--> | +61 <!--1431--> |
 | Claymore of Unholy Might | +30 <!--1341--> | +28 <!--1388--> | +57 <!--1417--> |
 | Severence | +26 <!--1337--> | +26 <!--1386--> | +54 <!--1414--> |
 | Gri'leks Carver _(Dragonkin)_ | +33 <!--1344--> | -5 <!--1355--> | +43 <!--1403--> |
