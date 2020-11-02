@@ -20,8 +20,7 @@ We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-0
 | [P6 R12, True](https://sixtyupgrades.com/set/tpGfZE1SAThnieDcynaQHg) | | 1242.4 | |
 | [P6, Realistic](https://sixtyupgrades.com/set/fJSDZNQ46z9tzPsxcGRmTV) | | 1223.5 | |
 | [P6, T2](https://sixtyupgrades.com/set/6tCwbG87bHeGpaS5cfxFPq) | | 1174.4 | +9 dps / hunter / T2 set |
-| **Phase 5 BiS:** | | | (with RAP from worldbuffs) |
-| [P5 BiS R12](https://sixtyupgrades.com/set/jrNhws7xF4oNJyij7sWcG4) | 1280.4 | 1089.4 | Weave simmed with Barb of the Sand Reaver |
+| [P5 BiS R12](https://sixtyupgrades.com/set/jrNhws7xF4oNJyij7sWcG4) | 1280.4 | 1089.4 | Weave simmed with Barb |
 
 # Weapons
 ## Melee Weaving Weapon DPS
