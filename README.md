@@ -18,7 +18,7 @@ We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-0
 | [P6 R12 MW, True](https://sixtyupgrades.com/set/3eyrLWdJfvxBSKiyRGV7cE) | 1407.4 | 1211.0 | 1528.1 with WF and WCB |
 | [P6 MW, Realistic](https://sixtyupgrades.com/set/qyzXyWwpmv3PidFcxqnR65) | 1394.3 | 1199.7 | 1474.7 with WF |
 | [P6 R12, True](https://sixtyupgrades.com/set/tpGfZE1SAThnieDcynaQHg) | | 1242.4 | |
-| TODO RESIM [P6, Realistic](https://sixtyupgrades.com/set/fJSDZNQ46z9tzPsxcGRmTV) | | 1223.5 | |
+| [P6, Realistic](https://sixtyupgrades.com/set/fJSDZNQ46z9tzPsxcGRmTV) | | 1223.5 | |
 | [P6, T2](https://sixtyupgrades.com/set/6tCwbG87bHeGpaS5cfxFPq) | | 1174.4 | +9 dps / hunter / T2 set |
 | [P5 BiS R12](https://sixtyupgrades.com/set/jrNhws7xF4oNJyij7sWcG4) | 1280.4 | 1089.4 | Weave simmed with Barb |
 
