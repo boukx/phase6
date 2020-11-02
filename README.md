@@ -30,19 +30,18 @@ Some hunters floated the idea of weaving with dual-wielded weapons in phase 6 du
 
 | Weapon | Normal Weave | Max Weave | Max with WCB |
 |---|---|---|---|
-| Barbarous Blade (baseline) | +0 (1311) | +0 (1360) | |
-| Lok'delar / Peacemaker | +4 (1315) | +11 (1371) | |
-| Huntsman's Harpoon | +17 (1328) | +2 (1362) | |
-| Zin'rokh | +20 (1331) | -2 (1358) | |
-| Ashkandi | +23 (1334) | +19 (1379) | +48 (1408) |
-| Severence | +26 (1337) | +26 (1386) | +54 (1414) |
-| Claymore of Unholy Might | +30 (1341) | +28 (1388) | +57 (1417) |
-| Gri'leks Carver _(Dragonkin)_ | +33 (1344) | -5 (1355) | +43 (1403) |
-| Barb of the Sand Reaver | +40 (1351) | +27 (1387) | +63 (1423) |
-| Corrupted Ashbringer | +40 (1351) | +42 (1402) | +61 (1431) |
+| Eye of Nerub | +57 <!--1368--> | +47 <!--1407--> | +85 <!--1445--> |
 | Severence _(Orc)_ <sup>[1](#severance)</sup> | +40 | +60 | +54 |
-| Eye of Nerub | +57 (1368) | +47 (1407) | +85 (1445) |
-
+| Corrupted Ashbringer | +40 <!--1351--> | +42 <!--1402--> | +61 <!--1431--> |
+| Barb of the Sand Reaver | +40 <!--1351--> | +27 <!--1387--> | +63 <!--1423--> |
+| Claymore of Unholy Might | +30 <!--1341--> | +28 <!--1388--> | +57 <!--1417--> |
+| Severence | +26 <!--1337--> | +26 <!--1386--> | +54 <!--1414--> |
+| Gri'leks Carver _(Dragonkin)_ | +33 <!--1344--> | -5 <!--1355--> | +43 <!--1403--> |
+| Ashkandi | +23 <!--1334--> | +19 <!--1379--> | +48 <!--1408--> |
+| Zin'rokh | +20 <!--1331--> | -2 <!--1358--> | |
+| Huntsman's Harpoon | +17 <!--1328--> | +2 <!--1362--> | |
+| Lok'delar / Peacemaker | +4 <!--1315--> | +11 <!--1371--> | |
+| Barbarous Blade (baseline) | +0 <!--1311--> | +0 <!--1360--> | |
 This table changes very little from p5 -> p6 for normal weavers.  For hunters max weaving, the faster attack speed on KT xbow actually shifts the relative strength of a couple weapons, favoring weapons which delay your max weave rotation less.  This is most apparent in that Gril'leks actually loses out to Ashkandi--with and without Warchief's Blessing, even against Dragonkin--due to its insanely slow speed delaying your ranged shots. 
 
 <a name="severance">1</a>: [Severance](https://classic.wowhead.com/item=22815/severance) is a 3.6 speed 2 handed axe with 43 strength and 2% crit.  In the contrived setting we're simming things in, [using Severance and putting a hitscope onto your Nerubain Slavemaker](https://sixtyupgrades.com/set/cu7DhXxuLdRSsQsvEtN1Z9) is technically the best max weaving gear set for an Orc with Windfury.  It beats Eye of Nerub by 2 DPS if you have Windfury but loses to Nerub when both sets have WCB by ~3 DPS.  It drastically loses to Eye as soon as your max weave uptime dips from 100% (which will happen in any fight you proc Quick Shots or use Rapid Fire during).  
