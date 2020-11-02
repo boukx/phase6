@@ -43,7 +43,7 @@ Some hunters floated the idea of weaving with dual-wielded weapons in phase 6 du
 | Lok'delar / Peacemaker | +4 <!--1315--> | +11 <!--1371--> | |
 | Barbarous Blade (baseline) | +0 <!--1311--> | +0 <!--1360--> | |
 
-This table changes very little from p5 -> p6 for normal weavers.  For hunters max weaving, the faster attack speed on KT xbow actually shifts the relative strength of a couple weapons, favoring weapons which delay your max weave rotation less.  This is most apparent in that Gril'leks actually loses out to Ashkandi--with and without Warchief's Blessing, even against Dragonkin--due to its insanely slow speed delaying your ranged shots. 
+This table changes very little from phase 5 to phase 6 for normal weavers.  For max weaving hunters, the faster attack speed on KT xbow actually shifts the relative strength of a couple weapons, favoring weapons which delay your max weave rotation less.  This is most apparent in that Gril'leks actually loses out to Ashkandi--with and without Warchief's Blessing, even against Dragonkin--due to its insanely slow speed delaying your ranged shots. 
 
 <a name="severance">1</a>: [Severance](https://classic.wowhead.com/item=22815/severance) is a 3.6 speed 2 handed axe with 43 strength and 2% crit.  In the contrived setting we're simming things in, [using Severance and putting a hitscope onto your Nerubain Slavemaker](https://sixtyupgrades.com/set/cu7DhXxuLdRSsQsvEtN1Z9) is technically the best max weaving gear set for an Orc with Windfury.  It beats Eye of Nerub by 2 DPS if you have Windfury but loses to Nerub when both sets have WCB by ~3 DPS.  It drastically loses to Eye as soon as your max weave uptime dips from 100% (which will happen in any fight you proc Quick Shots or use Rapid Fire during).  
 
