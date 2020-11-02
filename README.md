@@ -1,4 +1,4 @@
-# Bouk's Phase 6 Lootapoloza ![](./skinnay_rip.png)
+# Bouk's Phase 6 Lootapalooza ![](./skinnay_rip.png)
 
 The base of this document is ripped directly from  [Skinnay's Classic Gear List](https://gist.github.com/skinnay-dev/39f71f3cce1c64b95142f7e0e0d97bca), modified slightly, and updated to fit our current understanding of hunters in classic.  Please see his list for pre-phase 6 gear lists.
 
@@ -16,24 +16,24 @@ We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-0
 | --- | --- | --- | --- |
 | [P6 R12 MW, True](https://sixtyupgrades.com/set/3eyrLWdJfvxBSKiyRGV7cE) | 1407.4 | 1211.0 | 1528.1 with WF and WCB |
 | [P6 MW, Realistic](https://sixtyupgrades.com/set/qyzXyWwpmv3PidFcxqnR65) | 1394.3 | 1199.7 | 1474.7 with WF |
-| [P6 R12, True](https://sixtyupgrades.com/set/tpGfZE1SAThnieDcynaQHg) | | 1242.4 |
-| [P6, Realistic](https://sixtyupgrades.com/set/fJSDZNQ46z9tzPsxcGRmTV) | | 1223.5 |
+| [P6 R12, True](https://sixtyupgrades.com/set/tpGfZE1SAThnieDcynaQHg) | | 1242.4 | |
+| [P6, Realistic](https://sixtyupgrades.com/set/fJSDZNQ46z9tzPsxcGRmTV) | | 1223.5 | |
 | [P6, T2](https://sixtyupgrades.com/set/6tCwbG87bHeGpaS5cfxFPq) | | 1174.4 | +9 dps / hunter / T2 set |
 | **Phase 5 BiS:** | | | (with RAP from worldbuffs) |
 | [P5 BiS R12](https://sixtyupgrades.com/set/jrNhws7xF4oNJyij7sWcG4) | 1280.4 | 1089.4 | Weave simmed with Barb of the Sand Reaver |
 
 # Weapons
 ## Melee Weaving Weapon DPS
-| Weapon | Normal Weave | Max Weave | Max with WCB
+| Weapon | Normal Weave | Max Weave | Max with WCB |
 | --- | --- | --- | --- |
-| Barbarous Blade (baseline) | +0 (1311) | +0 (1360) |
-| Lok'delar / Peacemaker | +4 (1315) | +11 (1371) |
-| Huntsman's Harpoon | +17 (1328) | +2 (1362) |
-| Zin'rokh | +20 (1331) | -2 (1358) |
-| Ashkandi | +23 (1334) | +19 (1379) | +48 (1408)
-| Gri'leks Carver (Dragonkin) | +33 (1344) | -5 (1355) | +43 (1403)
+| Barbarous Blade (baseline) | +0 (1311) | +0 (1360) | |
+| Lok'delar / Peacemaker | +4 (1315) | +11 (1371) | |
+| Huntsman's Harpoon | +17 (1328) | +2 (1362) | |
+| Zin'rokh | +20 (1331) | -2 (1358) | |
+| Ashkandi | +23 (1334) | +19 (1379) | +48 (1408) |
+| Gri'leks Carver (Dragonkin) | +33 (1344) | -5 (1355) | +43 (1403) |
 | Barb of the Sand Reaver | +40 (1351) | +27 (1387) | +63 (1423) |
-| Eye of Nerub | +57 (1368) | +47 (1407) | +85 (1445)
+| Eye of Nerub | +57 (1368) | +47 (1407) | +85 (1445) |
 
 This table changes very little from p5 -> p6 for normal weavers.  For hunters max weaving, the faster attack speed on KT xbow actually shifts the relative strength of a couple weapons, favoring weapons which delay your max weave rotation less.  This is most apparent in that Gril'leks actually loses out to Ashkandi (with and without Warchief's Blessing) even against Dragonkin weapon due to its insanely slow speed delaying your ranged shots. 
 
