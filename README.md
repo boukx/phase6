@@ -12,6 +12,7 @@ Phase 6 introduces [Consecrated Sharpening Stones.
 We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-05251030513051) due to Slaying talents affecting very few raid bosses in Naxx and AQ rather than the p3/4 [13/31/7](https://classic.wowhead.com/talent-calc/hunter/530002003-05251030513051-32002) spec.
 
 # Armor
+
 | Gear set | Weave DPS | Ranged DPS | Notes |
 |---|---|---|---|
 | [P6 R12 MW, True](https://sixtyupgrades.com/set/3eyrLWdJfvxBSKiyRGV7cE) | 1407.4 | 1211.0 | 1528.1 with WF and WCB |
@@ -24,6 +25,7 @@ We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-0
 
 # Weapons
 ## Melee Weaving Weapon DPS
+
 | Weapon | Normal Weave | Max Weave | Max with WCB |
 |---|---|---|---|
 | Barbarous Blade (baseline) | +0 (1311) | +0 (1360) | |
