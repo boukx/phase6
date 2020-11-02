@@ -15,6 +15,7 @@ We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-0
 
 | Gear set | Weave DPS | Ranged DPS | Notes |
 |---|---|---|---|
+| [P6 R12 Orc MW, True](https://sixtyupgrades.com/set/cu7DhXxuLdRSsQsvEtN1Z9) | 1489.9 | 1189.0 | [See footnote](#severance) |
 | [P6 R12 MW, True](https://sixtyupgrades.com/set/3eyrLWdJfvxBSKiyRGV7cE) | 1407.4 | 1211.0 | 1528.1 with WF and WCB |
 | [P6 MW, Realistic](https://sixtyupgrades.com/set/qyzXyWwpmv3PidFcxqnR65) | 1394.3 | 1199.7 | 1474.7 with WF |
 | [P6 R12, True](https://sixtyupgrades.com/set/tpGfZE1SAThnieDcynaQHg) | | 1242.4 | |
@@ -23,6 +24,9 @@ We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-0
 | [P5 BiS R12](https://sixtyupgrades.com/set/jrNhws7xF4oNJyij7sWcG4) | 1280.4 | 1089.4 | Weave simmed with Barb |
 
 # Weapons
+
+Some hunters floated the idea of weaving with dual-wielded weapons in phase 6 due to the introduction of Consecrated Sharpening Stones.  We were unable to build a set for which this beat 2 handers at melee weaving with many different combinations of slow mainhands, Windfury on MH, Orc racial, etc.  Slow 2 handers are far and away better for weaving.
+
 ## Melee Weaving Weapon DPS
 
 | Weapon | Normal Weave | Max Weave | Max with WCB |
@@ -32,11 +36,17 @@ We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-0
 | Huntsman's Harpoon | +17 (1328) | +2 (1362) | |
 | Zin'rokh | +20 (1331) | -2 (1358) | |
 | Ashkandi | +23 (1334) | +19 (1379) | +48 (1408) |
-| Gri'leks Carver (Dragonkin) | +33 (1344) | -5 (1355) | +43 (1403) |
+| Severence | +26 (1337) | +26 (1386) | +54 (1414) |
+| Claymore of Unholy Might | +30 (1341) | +28 (1388) | +57 (1417) |
+| Gri'leks Carver _(Dragonkin)_ | +33 (1344) | -5 (1355) | +43 (1403) |
 | Barb of the Sand Reaver | +40 (1351) | +27 (1387) | +63 (1423) |
+| Corrupted Ashbringer | +40 (1351) | +42 (1402) | +61 (1431) |
+| Severence _(Orc)_ <sup>[1](#severance)</sup> | +40 | +60 | +54 |
 | Eye of Nerub | +57 (1368) | +47 (1407) | +85 (1445) |
 
 This table changes very little from p5 -> p6 for normal weavers.  For hunters max weaving, the faster attack speed on KT xbow actually shifts the relative strength of a couple weapons, favoring weapons which delay your max weave rotation less.  This is most apparent in that Gril'leks actually loses out to Ashkandi--with and without Warchief's Blessing, even against Dragonkin--due to its insanely slow speed delaying your ranged shots. 
+
+<a name="severance">1</a>: [Severance](https://classic.wowhead.com/item=22815/severance) is a 3.6 speed 2 handed axe with 43 strength and 2% crit.  In the contrived setting we're simming things in, using Severance and putting a hitscope onto your Nerubain Slavemaker is technically the best max weaving gear set for an Orc.  It beats Eye of Nerub by 2 DPS if you have Windfury but loses to Nerub when both sets have WCB by ~3 DPS.  It drastically loses to Eye as soon as your max weave uptime dips from 100% (which will happen in any fight you proc Quick Shots or use Rapid Fire during).  On the BiS list above it appears to come out at ~80 DPS higher than the next set but this is because we've listed its Max Weave DPS with Windfury as opposed to all other sets on that list: **it only beats the set below for Windfury having Orcs who max weave 100% of the fight without delay or any haste effects by 2 DPS**; we went back and forth about how to list it since it actually only beats Eye of Nerub when the user has Windfury.
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
