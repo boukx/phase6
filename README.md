@@ -1,4 +1,4 @@
-# Bouk's Phase 6 Lootapalooza ![](./skinnay_rip.png)
+# Bouk's Phase 6 Lootapalooza <div style="text-align: right"> ![](./skinnay_rip.png)</div>
 
 The base of this document is ripped directly from  [Skinnay's Classic Gear List](https://gist.github.com/skinnay-dev/39f71f3cce1c64b95142f7e0e0d97bca), modified slightly, and updated to fit our current understanding of hunters in classic.  Please see his list for pre-phase 6 gear lists.
 
