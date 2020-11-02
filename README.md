@@ -1,6 +1,4 @@
-~~Skinnay's Classic Hunter Gear Lists (Alliance)~~ ![](https://i.imgur.com/RL0HHcp.png)<br/>
-Bouk's Phase 6 Lootapoloza 
-=
+# Bouk's Phase 6 Lootapoloza ![](./skinnay_rip.png)
 
 The base of this document is ripped directly from  [Skinnay's Classic Gear List](https://gist.github.com/skinnay-dev/39f71f3cce1c64b95142f7e0e0d97bca), modified slightly, and updated to fit our current understanding of hunters in classic.  Please see his list for pre-phase 6 gear lists.
 
@@ -13,15 +11,7 @@ Phase 6 introduces [Consecrated Sharpening Stones.
 
 We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-05251030513051) due to Slaying talents affecting very few raid bosses in Naxx and AQ rather than the p3/4 [13/31/7](https://classic.wowhead.com/talent-calc/hunter/530002003-05251030513051-32002) spec.
 
-
-# Table of Contents
-1. [Armor](#armor)
-3. [Weapons](#weapons)
-4. [Swap Trinkets](#trinkets)
-
-<a name="armor"></a>
-Armor 
-===
+# Armor
 | Gear set | Weave DPS | Ranged DPS | Notes |
 | --- | --- | --- | --- |
 | [P6 R12 MW, True](https://sixtyupgrades.com/set/3eyrLWdJfvxBSKiyRGV7cE) | 1407.4 | 1211.0 | 1528.1 with WF and WCB |
@@ -32,11 +22,8 @@ Armor
 | **Phase 5 BiS:** | | | (with RAP from worldbuffs) |
 | [P5 BiS R12](https://sixtyupgrades.com/set/jrNhws7xF4oNJyij7sWcG4) | 1280.4 | 1089.4 | Weave simmed with Barb of the Sand Reaver |
 
-<a name="weapons"></a>
-Weapon Rankings 
-===
-
-### Melee Weaving Weapon DPS
+# Weapons
+## Melee Weaving Weapon DPS
 | Weapon | Normal Weave | Max Weave | Max with WCB
 | --- | --- | --- | --- |
 | Barbarous Blade (baseline) | +0 (1311) | +0 (1360) |
