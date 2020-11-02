@@ -47,7 +47,7 @@ This table changes very little from p5 -> p6 for normal weavers.  For hunters ma
 
 <a name="severance">1</a>: [Severance](https://classic.wowhead.com/item=22815/severance) is a 3.6 speed 2 handed axe with 43 strength and 2% crit.  In the contrived setting we're simming things in, [using Severance and putting a hitscope onto your Nerubain Slavemaker](https://sixtyupgrades.com/set/cu7DhXxuLdRSsQsvEtN1Z9) is technically the best max weaving gear set for an Orc with Windfury.  It beats Eye of Nerub by 2 DPS if you have Windfury but loses to Nerub when both sets have WCB by ~3 DPS.  It drastically loses to Eye as soon as your max weave uptime dips from 100% (which will happen in any fight you proc Quick Shots or use Rapid Fire during).  
 
-## Ranged Stat Stick Weapon DPS
+## Ranged Stat Stick Weapon eAP
 
 | Weapon | Base | Kings | ZG | Kings + ZG |
 |---|---|---|---|---|
