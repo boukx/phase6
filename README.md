@@ -59,9 +59,8 @@ Blessed Qiraji Pugio | 105 | 107 | 109 | 110
 Maexxna's Fang | 83 | 84 | 86 | 86
 Hatchet of Sundered Bone | 76 | 77 | 77 | 78
 Silithid Claw (MH) | 70 | 71 | 71 | 72
-Fang of the Faceless / R14 | 68 | 69 | 69 | 70
+Hakkari MH / Fang of the Faceless / R14 | 68 | 69 | 69 | 70
 Brutality Blade | 65 | 68 | 70 | 74
-Warblade of the Hakkari (MH) | 68 | 69 | 69 | 70
 Core Hound Tooth / Ancient Qiraji Ripper | 60 | 61 | 61 | 62
 Tooth of Eranikus (MH) | 47 | 48 | 50 | 50
 16 agi weapons<sup>[2](#agi-weapons)</sup> | 44 | 49 | 51 | 56
@@ -73,7 +72,7 @@ Bone Slicing Hatchet | 36 | 40 | 41 | 46
 
 <a name="crit-weapons">3</a>: _Assassination Blade / Dawn's Edge / Heartseeker / Thekal's Grasp (MH) / Dal'Rend's Sacred Charge (MH)_
 
-_Values in this table are p6 eAP._
+Values in the above table are p6 eAP.
 
 | Stat | eAP | Kings | ZG | Kings + ZG |
 |---|---|---|---|---|
