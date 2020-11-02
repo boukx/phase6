@@ -15,11 +15,10 @@ We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-0
 
 | Gear set | Weave DPS | Ranged DPS | Notes |
 |---|---|---|---|
-| [P6 R12 Orc MW, True](https://sixtyupgrades.com/set/cu7DhXxuLdRSsQsvEtN1Z9) | 1489.9 | 1189.0 | [See footnote](#severance) |
 | [P6 R12 MW, True](https://sixtyupgrades.com/set/3eyrLWdJfvxBSKiyRGV7cE) | 1407.4 | 1211.0 | 1528.1 with WF and WCB |
 | [P6 MW, Realistic](https://sixtyupgrades.com/set/qyzXyWwpmv3PidFcxqnR65) | 1394.3 | 1199.7 | 1474.7 with WF |
 | [P6 R12, True](https://sixtyupgrades.com/set/tpGfZE1SAThnieDcynaQHg) | | 1242.4 | |
-| [P6, Realistic](https://sixtyupgrades.com/set/fJSDZNQ46z9tzPsxcGRmTV) | | 1223.5 | |
+| TODO RESIM [P6, Realistic](https://sixtyupgrades.com/set/fJSDZNQ46z9tzPsxcGRmTV) | | 1223.5 | |
 | [P6, T2](https://sixtyupgrades.com/set/6tCwbG87bHeGpaS5cfxFPq) | | 1174.4 | +9 dps / hunter / T2 set |
 | [P5 BiS R12](https://sixtyupgrades.com/set/jrNhws7xF4oNJyij7sWcG4) | 1280.4 | 1089.4 | Weave simmed with Barb |
 
@@ -46,7 +45,45 @@ Some hunters floated the idea of weaving with dual-wielded weapons in phase 6 du
 
 This table changes very little from p5 -> p6 for normal weavers.  For hunters max weaving, the faster attack speed on KT xbow actually shifts the relative strength of a couple weapons, favoring weapons which delay your max weave rotation less.  This is most apparent in that Gril'leks actually loses out to Ashkandi--with and without Warchief's Blessing, even against Dragonkin--due to its insanely slow speed delaying your ranged shots. 
 
-<a name="severance">1</a>: [Severance](https://classic.wowhead.com/item=22815/severance) is a 3.6 speed 2 handed axe with 43 strength and 2% crit.  In the contrived setting we're simming things in, using Severance and putting a hitscope onto your Nerubain Slavemaker is technically the best max weaving gear set for an Orc.  It beats Eye of Nerub by 2 DPS if you have Windfury but loses to Nerub when both sets have WCB by ~3 DPS.  It drastically loses to Eye as soon as your max weave uptime dips from 100% (which will happen in any fight you proc Quick Shots or use Rapid Fire during).  On the BiS list above it appears to come out at ~80 DPS higher than the next set but this is because we've listed its Max Weave DPS with Windfury as opposed to all other sets on that list: **it only beats the set below for Windfury having Orcs who max weave 100% of the fight without delay or any haste effects by 2 DPS**; we went back and forth about how to list it since it actually only beats Eye of Nerub when the user has Windfury.
+<a name="severance">1</a>: [Severance](https://classic.wowhead.com/item=22815/severance) is a 3.6 speed 2 handed axe with 43 strength and 2% crit.  In the contrived setting we're simming things in, [using Severance and putting a hitscope onto your Nerubain Slavemaker](https://sixtyupgrades.com/set/cu7DhXxuLdRSsQsvEtN1Z9) is technically the best max weaving gear set for an Orc with Windfury.  It beats Eye of Nerub by 2 DPS if you have Windfury but loses to Nerub when both sets have WCB by ~3 DPS.  It drastically loses to Eye as soon as your max weave uptime dips from 100% (which will happen in any fight you proc Quick Shots or use Rapid Fire during).  
+
+## Ranged Stat Stick Weapon DPS
+
+| Weapon | Base | Kings | ZG | Kings + ZG |
+|---|---|---|---|---|
+Kingsfall | 132 | 138 | 142 | 149
+Iblis, Blade of the Fallen Seraph | 113 | 115 | 117 | 118
+Harbringer of Doom | 109 | 114 | 117 | 120
+Claw of the Frost Wyrm (OH) | 109 | 111 | 113 | 114
+Blessed Qiraji Pugio | 105 | 107 | 109 | 110
+Maexxna's Fang | 83 | 84 | 86 | 86
+Hatchet of Sundered Bone | 76 | 77 | 77 | 78
+Silithid Claw (MH) | 70 | 71 | 71 | 72
+Fang of the Faceless / R14 | 68 | 69 | 69 | 70
+Brutality Blade | 65 | 68 | 70 | 74
+Warblade of the Hakkari (MH) | 68 | 69 | 69 | 70
+Core Hound Tooth / Ancient Qiraji Ripper | 60 | 61 | 61 | 62
+Tooth of Eranikus (MH) | 47 | 48 | 50 | 50
+Dragonfang Blade / Doom's Edge (Unique) / Scythe of the Unseen Path | 44 | 49 | 51 | 56
+Dal'Rend's Set (each) | 45 | 45 | 45 | 45
+Assassination Blade / Dawn's Edge / Heartseeker / Thekal's Grasp (MH) / Dal'Rend's Sacred Charge (MH) | 40 | 41 | 41 | 42
+Bone Slicing Hatchet | 36 | 40 | 41 | 46
+
+
+
+
+
+_Values in this table are p6 eAP._
+
+| Stat | eAP | Kings | ZG | Kings + ZG |
+|---|---|---|---|---|
+| 1 Agi | 2.76 | 3.05 | 3.19 | 3.53 |
+| 1% Crit | 40.23 | 40.83 | 41.12 | 41.79 |
+| 1% Hit | 47.18 | 48.38 | 48.97 | 50.35 |
+
+
+<!-- TODO check WSG legs when hit needed -->
+
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
