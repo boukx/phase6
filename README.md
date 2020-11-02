@@ -64,14 +64,14 @@ Brutality Blade | 65 | 68 | 70 | 74
 Warblade of the Hakkari (MH) | 68 | 69 | 69 | 70
 Core Hound Tooth / Ancient Qiraji Ripper | 60 | 61 | 61 | 62
 Tooth of Eranikus (MH) | 47 | 48 | 50 | 50
-Dragonfang Blade / Doom's Edge (Unique) / Scythe of the Unseen Path | 44 | 49 | 51 | 56
+16 agi weapons<sup>[2](#agi-weapons)</sup> | 44 | 49 | 51 | 56
 Dal'Rend's Set (each) | 45 | 45 | 45 | 45
-Assassination Blade / Dawn's Edge / Heartseeker / Thekal's Grasp (MH) / Dal'Rend's Sacred Charge (MH) | 40 | 41 | 41 | 42
+1% crit weapons<sup>[3](#crit-weapons)</sup> | 40 | 41 | 41 | 42
 Bone Slicing Hatchet | 36 | 40 | 41 | 46
 
+<a name="agi-weapons">2</a>: _Dragonfang Blade / Doom's Edge (Unique) / Scythe of the Unseen Path_
 
-
-
+<a name="crit-weapons">3</a>: _Assassination Blade / Dawn's Edge / Heartseeker / Thekal's Grasp (MH) / Dal'Rend's Sacred Charge (MH)_
 
 _Values in this table are p6 eAP._
 
