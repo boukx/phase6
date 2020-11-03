@@ -2,14 +2,23 @@
 
 The base of this document is ripped directly from  [Skinnay's Classic Gear List](https://gist.github.com/skinnay-dev/39f71f3cce1c64b95142f7e0e0d97bca), modified slightly, and updated to fit our current understanding of hunters in classic.  Please see his list for pre-phase 6 gear lists.
 
-Phase 6 BiS is much simpler than previous phases as T3 is far and away better than most other gear in the game.  Stat weights and dps values are based on [Sixx's DPS sheet](https://docs.google.com/spreadsheets/d/1BIlB2P1kyV_QdD4ULQzvZvS6hK6BDouUQkyHQzCvBGI/edit#gid=333718892) and assume full buffs, consumables, and uptime on boss debuffs with 20/31/0 spec<!-- Todo link config -->. Weapon calculations assume absolute BiS armor and likewise, armor calculations assume absolutely BiS weapons.  DPS numbers are from stable rotations without use of haste effects or active trinkets. 
+Phase 6 BiS is much simpler than previous phases as T3 is far and away better than most other gear in the game.  [Stat weights](#P6-eAP) and dps values are based on [Sixx's DPS sheet](https://docs.google.com/spreadsheets/d/1BIlB2P1kyV_QdD4ULQzvZvS6hK6BDouUQkyHQzCvBGI/edit#gid=333718892) and assume full buffs, consumables, and uptime on boss debuffs with 20/31/0 spec<!-- Todo link config -->. Weapon calculations assume absolute BiS armor and likewise, armor calculations assume absolutely BiS weapons.  DPS numbers are from stable rotations without use of haste effects or active trinkets. 
 
 As these sets are being simmed under pretty contrived settings (100% debuff, pet uptime, etc) the absolute DPS values of each set is fairly meaningless.  Gear upgrades should be compared relative to the pieces and sets they are replacing.  Likewise, Blessing of Kings (and Windfury when weaving) raises the top end DPS of all sets but do not meaningfully change how the sets compare to eachother.  As such, all sets are simmed with Blessing of Kings.  We've put the simmed DPS of top end weave sets with Windfury (WF) in the notes column because melee hits go brrrrt.
 
 Phase 6 introduces [Consecrated Sharpening Stones.
-](https://classic.wowhead.com/item=23122/consecrated-sharpening-stone)  Our best current knowledge indicates these work for ranged AP as well as melee.  As such, we've simmed all sets with them applied (except WF sims).
+](https://classic.wowhead.com/item=23122/consecrated-sharpening-stone)  Our current best knowledge indicates these work for ranged AP as well as melee.  As such, we've simmed all sets with them applied (except WF sims).
 
-We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-05251030513051) due to Slaying talents affecting very few raid bosses in Naxx and AQ rather than the p3/4 [13/31/7](https://classic.wowhead.com/talent-calc/hunter/530002003-05251030513051-32002) spec.
+<!-- We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-05251030513051) due to Slaying talents affecting very few raid bosses in Naxx and AQ rather than the p3/4 [13/31/7](https://classic.wowhead.com/talent-calc/hunter/530002003-05251030513051-32002) spec. -->
+
+
+## P6 eAP
+
+| Stat | eAP | Kings | ZG | Kings + ZG |
+|---|---|---|---|---|
+| 1 Agi | 2.76 | 3.05 | 3.19 | 3.53 |
+| 1% Crit | 40.23 | 40.83 | 41.12 | 41.79 |
+| 1% Hit | 47.18 | 48.38 | 48.97 | 50.35 |
 
 # Armor
 
@@ -24,8 +33,6 @@ We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-0
 
 
 ## Upgrading to T3
-
-TLDR:
 
 - If you have r12 gloves, do not get T3 gloves.
 - If you have r10 head and shoulders, swap them both for T3 last.
@@ -123,16 +130,6 @@ Bone Slicing Hatchet | 36 | 40 | 41 | 46
 <a name="agi-weapons">2</a>: _Dragonfang Blade / Doom's Edge / Scythe of the Unseen Path_
 
 <a name="crit-weapons">3</a>: _Assassination Blade / Dawn's Edge / Heartseeker / Thekal's Grasp (MH) / Dal'Rend's Sacred Charge (MH)_
-
-
-
-Values in the above table are p6 eAP.
-
-| Stat | eAP | Kings | ZG | Kings + ZG |
-|---|---|---|---|---|
-| 1 Agi | 2.76 | 3.05 | 3.19 | 3.53 |
-| 1% Crit | 40.23 | 40.83 | 41.12 | 41.79 |
-| 1% Hit | 47.18 | 48.38 | 48.97 | 50.35 |
 
 # Rings
 
