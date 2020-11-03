@@ -22,6 +22,31 @@ We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-0
 | [P6, T2](https://sixtyupgrades.com/set/6tCwbG87bHeGpaS5cfxFPq) | | 1174.4 | +9 dps / hunter / T2 set |
 | [P5 BiS R12](https://sixtyupgrades.com/set/jrNhws7xF4oNJyij7sWcG4) | 1280.4 | 1089.4 | Weave simmed with Barb |
 
+
+## Upgrading to T3
+
+TLDR:
+
+- If you have r12 gloves, do not get T3 gloves.
+- If you have r10 head and shoulders, swap them both for T3 last.
+- If you need to break 8/8 T2, read below.
+- Break 3/8 T2 only if you can equip 2 new pieces of T3.
+- Ideally equip T3 in this order (biggest upgrade -> smallest):
+  - Head, Shoulders, Chest, Belt, Gloves, Bracers, Boots, Legs
+- Get ring whenever you can.
+
+T3 armor has a DPS boost at 2 and 4 piece set bonus.  Some of y'all may be coming into phase 6 wearing 8/8 T2.  Breaking T2 for any 2 pieces of T3 is a personal DPS boost.  If you have 3-5 hunters in the raid, switching to 2/8 T3 will boost your personal DPS at the sacrifice of ~10-20 raid DPS from not giving T2 to your other hunters; breaking T2 for any 4 pieces of T3 is both a personal and raid DPS increase.
+
+## Less Succinctly
+
+| Current Set | T3 Piece Gearing Order | Set Breakpoints to Equip |
+|---|---|---|
+| [R12, Hit Scope](https://sixtyupgrades.com/set/qLZRDPuxxhQ1oJavEdCG9i) | Chest, Belt, Bracers, Boots, Legs, rest | 1,2,4,5,7 |
+| [R10, Hit Scope](https://sixtyupgrades.com/set/nLDzJ4Ersoc7iGY6eQjv7w) | Chest, Belt, Gloves, Bracers, Boots, Legs, rest | 1,2,3,5,6,8 |
+| [T2/2.5 mix, Hit Scope](https://sixtyupgrades.com/set/4ThtNUmHpn1QbVJLs1sDGZ) | Head, Shoulders, Chest, Belt, Gloves, Bracers, Boots, Legs | 1,2,3,4,5,7,8 |
+| [5/8 T2, Hit Scope](https://sixtyupgrades.com/set/fnfiXX7sMR6PYrChy4nxsg) | Head, Shoulders, Chest, Belt, Gloves, Bracers, Boots, Legs | 1,2,3,4,5,7,8 |
+| [T2, Hit Scope](https://sixtyupgrades.com/set/2PPbHtmmdu9sKaz46hmWFu) | Head, Shoulders, Chest, Belt, Gloves, Bracers, Boots, Legs | 2 or 4,5,6,7,8 |
+
 # Ranged Weapons
 
 | Weapon | DPS | MW DPS<sup>[1](#mw-numbers)</sup> |
@@ -39,7 +64,7 @@ We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-0
 
 Attempting to itemize BiS sets around using the dwarf or troll weapon skill racials with P6 armor is always a DPS loss due to the abundant hit on T3, ZG enchants, and ranged stat stick weapons.  Non-BiS sets may be able to make use of these passives.
 
-<a name="mw-numbers">1</a>: Melee weaving numbers are relative to weaving with Rhok'delar; although the relative DPS increases appear smaller, the absolute DPS of normal melee weaving with any of these weapons is higher than not.  Additionally, these numbers are for normal weaving, not max weaving.  Max weaving numbers vary dramatically depending on the speed of the melee weapon used (see the next table).  If you happen to have a plethora of weaving weapons and need to know which will pair best with a given ranged weapon for max weaving, consult the sim.
+<a name="mw-numbers">1</a>: Melee weaving numbers are relative to weaving with Rhok'delar; although the relative DPS increases appear smaller, the absolute DPS of normal melee weaving with any of these weapons is higher than not weaving at all.  Additionally, these numbers are for normal weaving, not max weaving.  Max weaving numbers vary dramatically depending on the speed of the melee weapon used (see the next table).  If you happen to have a plethora of weaving weapons and need to know which will pair best with a given ranged weapon for max weaving, consult the sim.
 
 # Melee Weapons
 
@@ -68,9 +93,9 @@ This table changes very little from phase 5 to phase 6 for normal weavers.  For 
 
 ## Ranged Stat Stick Weapon eAP
 
-The six best stat stick weapons this phase all have 1% hit on them.  Additionally, Kingsfall is so good that it still beats Hatchet of Sundered Bone's eAP without factoring in hit.  The hit gained on these is far more efficient than getting hit from rings.  As such, ranged hunters will transition into getting 2% of their hit from their weapons this phase.
+The six best stat stick weapons this phase all have 1% hit on them.  Hell, Kingsfall is so good that it still beats Hatchet of Sundered Bone's eAP without factoring in hit.  The hit gained on these is far more efficient than getting hit from rings.  As such, ranged hunters will transition into getting 2% of their hit from their weapons this phase.
 
-While the weapons below are our BiS this phase, the first 5 are all also empirically better upgrades for equally performing melee than hunters.  Showing this list to your raid lead and demanding any of them is silly, but we're also not your parents and different raids function differently.  If you are able to secure prio and eventually get your hands on any of them, congrats!  Do put yourself in other's shoes though, and realize how frustrated you would be if Nerubian Slavemaker (warrior BiS btw) went to a melee over you.  _Work with your raid leaders, loot council, and melee to find a compromise that suits all of you._
+While the weapons below are our BiS this phase, the first 5 are all also empirically better upgrades for equally performing melee than hunters.  Showing this list to your raid lead and demanding any of them is silly, but we're also not your parents and different raids function differently.  If you are able to secure prio and eventually get your hands on any of them, congrats!  Do put yourself in other's shoes though, and realize how frustrated you would be if Nerubian Slavemaker (warrior BiS btw) went to a melee over you.  _Work with your raid leaders, loot council, and melee to find compromises that suit all of you._
 
 | Weapon | Base | Kings | ZG | Kings + ZG |
 |---|---|---|---|---|
@@ -169,9 +194,11 @@ R = ranged, MW = melee weaving, eAPnH is eAP without factoring in hit, eAP.2H is
 
 Ring of Fury, Ring of Qiraji Fury, and Seal of the Gurubashi Berserker were dropped from the list as they arn't very good.
 
+# Trinkets
+
+Slayer's Crest is pretty good.  Leave Kiss to melee, we don't scale well with haste (its probably worse than ES/Jom).  Will fill this out with eAP in the coming days.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
 <!-- TODO check WSG legs when hit needed -->
-<!-- TODO resim with Mark of the Champion -->
 <!-- Trinkets, 4 piece sets -->
