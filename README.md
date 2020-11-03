@@ -28,10 +28,9 @@ Phase 6 introduces [Consecrated Sharpening Stones.
 - If you have r12 gloves, do not get T3 gloves.
 - If you have r10 head and shoulders, ideally swap them together for T3 last.
 - If you need to break 8/8 T2, read below.
-- Break 3/8 T2 only if you can equip 2 new pieces of T3.
+- Break 3/8 T2 when you can equip 2 new pieces of T3.
 - Ideally equip T3 in this order (biggest upgrade -> smallest):
   - Head, Shoulders, Chest, Belt, Gloves, Bracers, Boots, Legs
-- Get ring whenever you can.
 
 T3 armor has a DPS boost at 2 and 4 piece set bonus.  Some of y'all may be coming into phase 6 wearing 8/8 T2.  Breaking T2 for any 2 pieces of T3 is a personal DPS boost.  If you have 3-5 hunters in the raid, switching to 2/8 T3 will boost your personal DPS at the sacrifice of ~10-20 raid DPS from not giving T2 to your other hunters; breaking T2 for any 4 pieces of T3 is both a personal and raid DPS increase.
 
