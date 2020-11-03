@@ -11,15 +11,6 @@ Phase 6 introduces [Consecrated Sharpening Stones.
 
 <!-- We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-05251030513051) due to Slaying talents affecting very few raid bosses in Naxx and AQ rather than the p3/4 [13/31/7](https://classic.wowhead.com/talent-calc/hunter/530002003-05251030513051-32002) spec. -->
 
-
-## P6 eAP
-
-| Stat | eAP | Kings | ZG | Kings + ZG |
-|---|---|---|---|---|
-| 1 Agi | 2.76 | 3.05 | 3.19 | 3.53 |
-| 1% Crit | 40.23 | 40.83 | 41.12 | 41.79 |
-| 1% Hit | 47.18 | 48.38 | 48.97 | 50.35 |
-
 # Armor
 
 | Gear set | Weave DPS | Ranged DPS | Notes |
@@ -35,7 +26,7 @@ Phase 6 introduces [Consecrated Sharpening Stones.
 ## Upgrading to T3
 
 - If you have r12 gloves, do not get T3 gloves.
-- If you have r10 head and shoulders, swap them both for T3 last.
+- If you have r10 head and shoulders, ideally swap them together for T3 last.
 - If you need to break 8/8 T2, read below.
 - Break 3/8 T2 only if you can equip 2 new pieces of T3.
 - Ideally equip T3 in this order (biggest upgrade -> smallest):
@@ -194,6 +185,14 @@ Ring of Fury, Ring of Qiraji Fury, and Seal of the Gurubashi Berserker were drop
 # Trinkets
 
 Slayer's Crest is pretty good.  Leave Kiss to melee, we don't scale well with haste (its probably worse than ES/Jom).  Will fill this out with eAP in the coming days.
+
+# P6 eAP
+
+| Stat | eAP | Kings | ZG | Kings + ZG |
+|---|---|---|---|---|
+| 1 Agi | 2.76 | 3.05 | 3.19 | 3.53 |
+| 1% Crit | 40.23 | 40.83 | 41.12 | 41.79 |
+| 1% Hit | 47.18 | 48.38 | 48.97 | 50.35 |
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
