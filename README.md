@@ -68,6 +68,10 @@ This table changes very little from phase 5 to phase 6 for normal weavers.  For 
 
 ## Ranged Stat Stick Weapon eAP
 
+The six best stat stick weapons this phase all have 1% hit on them.  Additionally, Kingsfall is so good that it still beats Hatchet of Sundered Bone's eAP without factoring in hit.  The hit gained on these is far more efficient than getting hit from rings.  As such, ranged hunters will transition into getting 2% of their hit from their weapons this phase.
+
+While the weapons below are our BiS this phase, the first 5 are all also empirically better upgrades for equally performing melee than hunters.  Showing this list to your raid lead and demanding any of them is silly, but we're also not your parents and different raids function differently.  If you are able to secure prio and eventually get your hands on any of them, congrats!  Do put yourself in other's shoes though, and realize how frustrated you would be if Nerubian Slavemaker (warrior BiS btw) went to a melee over you.  _Work with your raid leaders, loot council, and melee to find a compromise that suits all of you._
+
 | Weapon | Base | Kings | ZG | Kings + ZG |
 |---|---|---|---|---|
 Kingsfall | 132 | 138 | 142 | 149
@@ -98,12 +102,6 @@ Values in the above table are p6 eAP.
 | 1 Agi | 2.76 | 3.05 | 3.19 | 3.53 |
 | 1% Crit | 40.23 | 40.83 | 41.12 | 41.79 |
 | 1% Hit | 47.18 | 48.38 | 48.97 | 50.35 |
-
-
-<!-- TODO check WSG legs when hit needed -->
-<!-- TODO resim with Mark of the Champion -->
-<!-- Ring combos, trinkets, 4 piece sets -->
-<!-- either sim weapons without needing hit or make the case that hit from weapons should always be used over hit from rings, if special case then sim -->
 
 # Rings
 
@@ -163,8 +161,11 @@ FAQ:
 
 R = ranged, MW = melee weaving, eAPnH is eAP without factoring in hit, eAP.2H is eAP factoring in .2% hit if the ring is used to hitcap with Eye of Nerub.  This table probably isn't very useful to most but its here.
 
-Ring of Fury, Ring of Qiraji Fury, and Seal of the Gurubashi Berserker we dropped from the list as they arn't very good.
-
+Ring of Fury, Ring of Qiraji Fury, and Seal of the Gurubashi Berserker were dropped from the list as they arn't very good.
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+
+<!-- TODO check WSG legs when hit needed -->
+<!-- TODO resim with Mark of the Champion -->
+<!-- Trinkets, 4 piece sets -->
