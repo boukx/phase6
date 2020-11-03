@@ -15,10 +15,11 @@ Phase 6 introduces [Consecrated Sharpening Stones.
 
 | Gear set | Weave DPS | Ranged DPS | Notes |
 |---|---|---|---|
-| [P6 R12 MW, True](https://sixtyupgrades.com/set/3eyrLWdJfvxBSKiyRGV7cE) | 1407.4 | 1211.0 | 1528.1 with WF and WCB |
-| [P6 MW, Realistic](https://sixtyupgrades.com/set/qyzXyWwpmv3PidFcxqnR65) | 1398.3 | 1204.4 | 1457.7 with WF |
+| [P6 R12 MW](https://sixtyupgrades.com/set/3eyrLWdJfvxBSKiyRGV7cE) | 1407.4 | 1211.0 | 1528.1 with WF and WCB |
+| [P6 MW](https://sixtyupgrades.com/set/qyzXyWwpmv3PidFcxqnR65) | 1398.3 | 1204.4 | 1457.7 with WF |
 | [P6 R12, True](https://sixtyupgrades.com/set/tpGfZE1SAThnieDcynaQHg) | | 1242.4 | |
 | [P6, Realistic](https://sixtyupgrades.com/set/fJSDZNQ46z9tzPsxcGRmTV) | | 1223.5 | Harbinger on Ally, Iblis on Horde |
+| [P6, More Realistic](https://sixtyupgrades.com/set/gDaMFDxdFUQZnVDBhMuG8J) | | 1182.2 | Less weapon contention with melee|
 | [P6, T2](https://sixtyupgrades.com/set/6tCwbG87bHeGpaS5cfxFPq) | | 1174.4 | +9 dps / hunter / T2 set |
 | [P5 BiS R12](https://sixtyupgrades.com/set/jrNhws7xF4oNJyij7sWcG4) | 1280.4 | 1089.4 | Weave simmed with Barb |
 
@@ -75,9 +76,9 @@ Some hunters floated the idea of weaving with dual-wielded weapons in phase 6 du
 | Severence _(Orc)_ <sup>[1](#severance)</sup> | +40 | +60 | +54 |
 | Barb of the Sand Reaver | +40 <!--1351--> | +27 <!--1387--> | +63 <!--1423--> |
 | Corrupted Ashbringer | +40 <!--1351--> | +42 <!--1402--> | +61 <!--1431--> |
+| Gri'leks Carver _(Dragonkin)_ | +33 <!--1344--> | -5 <!--1355--> | +43 <!--1403--> |
 | Claymore of Unholy Might | +30 <!--1341--> | +28 <!--1388--> | +57 <!--1417--> |
 | Severence | +26 <!--1337--> | +26 <!--1386--> | +54 <!--1414--> |
-| Gri'leks Carver _(Dragonkin)_ | +33 <!--1344--> | -5 <!--1355--> | +43 <!--1403--> |
 | Ashkandi | +23 <!--1334--> | +19 <!--1379--> | +48 <!--1408--> |
 | Zin'rokh | +20 <!--1331--> | -2 <!--1358--> | |
 | Huntsman's Harpoon | +17 <!--1328--> | +2 <!--1362--> | |
@@ -178,8 +179,6 @@ FAQ:
 |  |  | rha | rna | mha | mna | m2a | rhh | rnh | mhh | mnh | m2h |
 
 R = ranged, MW = melee weaving, eAPnH is eAP without factoring in hit, eAP.2H is eAP factoring in .2% hit if the ring is used to hitcap with Eye of Nerub.  This table probably isn't very useful to most but its here.
-
-Ring of Fury, Ring of Qiraji Fury, and Seal of the Gurubashi Berserker were dropped from the list as they arn't very good.
 
 # Trinkets
 
