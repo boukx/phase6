@@ -75,25 +75,31 @@ While the weapons below are our BiS this phase, the first 5 are all also empiric
 | Weapon | Base | Kings | ZG | Kings + ZG |
 |---|---|---|---|---|
 Kingsfall | 132 | 138 | 142 | 149
-Iblis, Blade of the Fallen Seraph | 115 |  |  | 
 Harbinger of Doom | 109 | 114 | 117 | 120
+Iblis, Blade of the Fallen Seraph | 115 |  |  | 
 Claw of the Frost Wyrm (OH) | 107 |  |  | 
 Blessed Qiraji Pugio | 105 |  |  | 
 Maexxna's Fang | 84 |  |  | 
+Eye of Nerub<sup>[1](#two-handed)</sup> | 124 | 137 | 144 | 159 |
 Hatchet of Sundered Bone | 77 |  |  | 
+Barb of the Sand Reaver<sup>[1](#two-handed)</sup> | 113 | 125 | 131 | 145
 Silithid Claw (MH) | 71 |  |  | 
-Hakkari MH / Fang of the Faceless / R14 | 69 |  |  | 
 Brutality Blade | 65 | 68 | 70 | 74
+Hakkari MH / Fang of the Faceless / R14 | 69 |  |  | 
 Core Hound Tooth / Ancient Qiraji Ripper | 61 |  |  | 
 Tooth of Eranikus (MH) | 48 |  |  | 
-16 agi weapons<sup>[1](#agi-weapons)</sup> | 44 | 49 | 51 | 56
+16 agi weapons<sup>[2](#agi-weapons)</sup> | 44 | 49 | 51 | 56
 Dal'Rend's Set (each) | 45 |  |  | 
-1% crit weapons<sup>[2](#crit-weapons)</sup> | 40 |  |  | 
+1% crit weapons<sup>[3](#crit-weapons)</sup> | 40 |  |  | 
 Bone Slicing Hatchet | 36 | 40 | 41 | 46
 
-<a name="agi-weapons">1</a>: _Dragonfang Blade / Doom's Edge / Scythe of the Unseen Path_
+<a name="two-handed">1</a>: _Two handed weapons should be compared at half their AP.  They will perform even worse than this table shows due to getting 5 less agility from enchants and 100 less AP from a second Consecrated Sharpening Stone._
 
-<a name="crit-weapons">2</a>: _Assassination Blade / Dawn's Edge / Heartseeker / Thekal's Grasp (MH) / Dal'Rend's Sacred Charge (MH)_
+<a name="agi-weapons">2</a>: _Dragonfang Blade / Doom's Edge / Scythe of the Unseen Path_
+
+<a name="crit-weapons">3</a>: _Assassination Blade / Dawn's Edge / Heartseeker / Thekal's Grasp (MH) / Dal'Rend's Sacred Charge (MH)_
+
+
 
 Values in the above table are p6 eAP.
 
