@@ -16,13 +16,32 @@ We assume [20/31/0](https://classic.wowhead.com/talent-calc/hunter/53000200505-0
 | Gear set | Weave DPS | Ranged DPS | Notes |
 |---|---|---|---|
 | [P6 R12 MW, True](https://sixtyupgrades.com/set/3eyrLWdJfvxBSKiyRGV7cE) | 1407.4 | 1211.0 | 1528.1 with WF and WCB |
-| [P6 MW, Realistic](https://sixtyupgrades.com/set/qyzXyWwpmv3PidFcxqnR65) | 1394.3 | 1199.7 | 1474.7 with WF |
+| [P6 MW, Realistic](https://sixtyupgrades.com/set/qyzXyWwpmv3PidFcxqnR65) | 1398.3 | 1204.4 | 1457.7 with WF |
 | [P6 R12, True](https://sixtyupgrades.com/set/tpGfZE1SAThnieDcynaQHg) | | 1242.4 | |
-| [P6, Realistic](https://sixtyupgrades.com/set/fJSDZNQ46z9tzPsxcGRmTV) | | 1223.5 | |
+| [P6, Realistic](https://sixtyupgrades.com/set/fJSDZNQ46z9tzPsxcGRmTV) | | 1223.5 | Harbinger on Ally, Iblis on Horde |
 | [P6, T2](https://sixtyupgrades.com/set/6tCwbG87bHeGpaS5cfxFPq) | | 1174.4 | +9 dps / hunter / T2 set |
 | [P5 BiS R12](https://sixtyupgrades.com/set/jrNhws7xF4oNJyij7sWcG4) | 1280.4 | 1089.4 | Weave simmed with Barb |
 
-# Weapons
+# Ranged Weapons
+
+| Weapon | DPS | MW DPS<sup>[1](#mw-numbers)</sup> |
+| --- | --- | --- |
+| Nerubian Slavemaker | +94 | +88 |
+| Ashjre'thul | +57 | +52 |
+| Larvae of the Great Worm | +34 | +33 |
+| Soulstring | +21 | +20 |
+| Crossbow of Imminent Doom | +19 | +21 |
+| Polished Ironwood Crossbow | +17 | +15 |
+| Huhuran's Stinger | +11 | -26 |
+| Dragonbreath Hand Cannon | +6 | -20 |
+| R14 Xbow/Gun | +3 | |
+| Rhok'delar | Baseline <!--1148--> | Baseline <!--1280--> |
+
+Attempting to itemize BiS sets around using the dwarf or troll weapon skill racials with P6 armor is always a DPS loss due to the abundant hit on T3, ZG enchants, and ranged stat stick weapons.  Non-BiS sets may be able to make use of these passives.
+
+<a name="mw-numbers">1</a>: Melee weaving numbers are relative to weaving with Rhok'delar; although the relative DPS increases appear smaller, the absolute DPS of normal melee weaving with any of these weapons is higher than not.  Additionally, these numbers are for normal weaving, not max weaving.  Max weaving numbers vary dramatically depending on the speed of the melee weapon used (see the next table).  If you happen to have a plethora of weaving weapons and need to know which will pair best with a given ranged weapon for max weaving, consult the sim.
+
+# Melee Weapons
 
 Some hunters floated the idea of weaving with dual-wielded weapons in phase 6 due to the introduction of Consecrated Sharpening Stones.  We were unable to build a set for which this beat 2 handers at melee weaving with many different combinations of slow mainhands, Windfury on MH, Orc racial, etc.  Slow 2 handers are far and away better for weaving.
 
@@ -41,7 +60,7 @@ Some hunters floated the idea of weaving with dual-wielded weapons in phase 6 du
 | Zin'rokh | +20 <!--1331--> | -2 <!--1358--> | |
 | Huntsman's Harpoon | +17 <!--1328--> | +2 <!--1362--> | |
 | Lok'delar / Peacemaker | +4 <!--1315--> | +11 <!--1371--> | |
-| Barbarous Blade (baseline) | +0 <!--1311--> | +0 <!--1360--> | |
+| Barbarous Blade | Baseline <!--1311--> | Baseline <!--1360--> | |
 
 This table changes very little from phase 5 to phase 6 for normal weavers.  For max weaving hunters, the faster attack speed on KT xbow actually shifts the relative strength of a couple weapons, favoring weapons which delay your max weave rotation less.  This is most apparent in that Gril'leks actually loses out to Ashkandi--with and without Warchief's Blessing, even against Dragonkin--due to its insanely slow speed delaying your ranged shots. 
 
@@ -53,7 +72,7 @@ This table changes very little from phase 5 to phase 6 for normal weavers.  For 
 |---|---|---|---|---|
 Kingsfall | 132 | 138 | 142 | 149
 Iblis, Blade of the Fallen Seraph | 115 |  |  | 
-Harbringer of Doom | 109 | 114 | 117 | 120
+Harbinger of Doom | 109 | 114 | 117 | 120
 Claw of the Frost Wyrm (OH) | 107 |  |  | 
 Blessed Qiraji Pugio | 105 |  |  | 
 Maexxna's Fang | 84 |  |  | 
@@ -63,14 +82,14 @@ Hakkari MH / Fang of the Faceless / R14 | 69 |  |  |
 Brutality Blade | 65 | 68 | 70 | 74
 Core Hound Tooth / Ancient Qiraji Ripper | 61 |  |  | 
 Tooth of Eranikus (MH) | 48 |  |  | 
-16 agi weapons<sup>[2](#agi-weapons)</sup> | 44 | 49 | 51 | 56
+16 agi weapons<sup>[1](#agi-weapons)</sup> | 44 | 49 | 51 | 56
 Dal'Rend's Set (each) | 45 |  |  | 
-1% crit weapons<sup>[3](#crit-weapons)</sup> | 40 |  |  | 
+1% crit weapons<sup>[2](#crit-weapons)</sup> | 40 |  |  | 
 Bone Slicing Hatchet | 36 | 40 | 41 | 46
 
-<a name="agi-weapons">2</a>: _Dragonfang Blade / Doom's Edge (Unique) / Scythe of the Unseen Path_
+<a name="agi-weapons">1</a>: _Dragonfang Blade / Doom's Edge / Scythe of the Unseen Path_
 
-<a name="crit-weapons">3</a>: _Assassination Blade / Dawn's Edge / Heartseeker / Thekal's Grasp (MH) / Dal'Rend's Sacred Charge (MH)_
+<a name="crit-weapons">2</a>: _Assassination Blade / Dawn's Edge / Heartseeker / Thekal's Grasp (MH) / Dal'Rend's Sacred Charge (MH)_
 
 Values in the above table are p6 eAP.
 
@@ -82,6 +101,69 @@ Values in the above table are p6 eAP.
 
 
 <!-- TODO check WSG legs when hit needed -->
+<!-- TODO resim with Mark of the Champion -->
+<!-- Ring combos, trinkets, 4 piece sets -->
+<!-- either sim weapons without needing hit or make the case that hit from weapons should always be used over hit from rings, if special case then sim -->
+
+# Rings
+
+Figuring out how to accurately convey the value of different rings was difficult.  In the end, we've decided to include both a raw data table of ring eAP and a TLDR style ring pair eAP table by the amount of hit you need.
+
+## TLDR ring sets:
+
+_The more hit you get from rings, the generally worse the other stats on the rings are.  Get your hit from gear, weapons, and hitscope sooner than rings._
+
+| Hit | Rings | | Ally eAP | Horde eAP |
+|---|---|---|---|---|
+| **0** | BoR | RotCS | 224 | 204 |
+| | BoR | BoUF | 212 | 201 |
+| | BoR | RotG | 214 | 194 |
+| | RotCS | BoUF | 198 | 189 |
+| | RotCS | RotG | 200 | 182 |
+| | BoUF | RotG | 188 | 179 |
+| **1** | BoR | BoUF | 212<!--261--> | 201<!--250--> |
+| |  BoR | SRotBD | 203<!--252--> | 192<!--241--> |
+| | RotCS | BoUF | 198<!--247--> | 189<!--238--> |
+| | RotCS | SRotBD | 189<!--238--> | 180<!--229--> |
+| | RotG | BoUF | 188<!--237--> | 179<!--228--> |
+| | RotG | SRotBD | 179<!--228--> | 170<!--219--> |
+| **2** | BoUF | SRotBD | 177<!--275--> | 170<!--268--> | 
+| | BoA | BoR | 175<!--273--> | 160<!--258--> |
+
+The above table was generated by pairing reasonably strong rings from the below table and then subtracting their eAP by required hit's value in eAP.  This normalizes eAP values bloated by hit which you ideally should be seeking from other places. 
+
+FAQ:
+- Why is Band of Accuria last?
+  - BoA is very, very bad eAP for hunters compared to other classes.  Hit comes easy to us--especially in phase 6--and none of the top sets need more than a single % hit from rings.
+- Why no 3 hit ring sets?
+  - Hitscope your Slavermaker and use a 0 hit ring set.
+
+## Big Ring Data
+
+|  | | Ally | | | | | Horde | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | **R** |  | **MW** |  |  | **R** | | **MW**| | |
+| **Ring** | **Hit** | **eAP** | **eAPnH** | **eAP** | **eAPnH** | **eAP.2H** | **eAP** | **eAPnH** | **eAP** | **eAPnH** | **eAP.2H** |
+| Band of Reanimation |  | 119 | 119 | 108 | 108 | 108 | 108 | 108 | 96 | 96 | 96 |
+| Ring of the Cryptstalker |  | 105 | 105 | 95 | 95 | 95 | 96 | 96 | 85 | 85 | 85 |
+| Band of Unnatural Forces | 1 | 142 | 93 | 138 | 91 | 107 | 142 | 93 | 137 | 91 | 108 |
+| Ring of the Godslayer |  | 95 | 95 | 86 | 86 | 86 | 86 | 86 | 76 | 76 | 76 |
+| Signet Ring of the Bronze Dragonflight | 1 | 133 | 84 | 123 | 76 | 92 | 126 | 77 | 114 | 68 | 85 |
+| Signet of the Unseen Path |  | 67 | 67 | 60 | 60 | 60 | 61 | 61 | 54 | 54 | 54 |
+| Ring of the Unliving |  | 74 | 74 | 67 | 67 | 67 | 67 | 67 | 59 | 59 | 59 |
+| Seal of Jin |  | 61 | 61 | 59 | 59 | 59 | 61 | 61 | 59 | 59 | 59 |
+| Band of Jin | 1 | 98 | 49 | 92 | 44 | 61 | 94 | 45 | 86 | 39 | 56 |
+| Master Dragonslayer's Ring | 1 | 97 | 48 | 95 | 48 | 64 | 97 | 48 | 94 | 48 | 65 |
+| Circle of Applied Force |  | 77 | 77 | 73 | 73 | 73 | 70 | 70 | 66 | 66 | 66 |
+| Archimtiros' Ring of Reckoning |  | 49 | 49 | 44 | 44 | 44 | 45 | 45 | 39 | 39 | 39 |
+| Don Julio's Band | 1 | 106 | 57 | 102 | 55 | 71 | 106 | 57 | 101 | 55 | 72 |
+| Tarnished Elven Ring | 1 | 102 | 53 | 95 | 48 | 64 | 97 | 48 | 89 | 42 | 59 |
+| Quick Strike Ring |  | 71 | 71 | 69 | 69 | 69 | 71 | 71 | 69 | 69 | 69 |
+|  |  | rha | rna | mha | mna | m2a | rhh | rnh | mhh | mnh | m2h |
+
+R = ranged, MW = melee weaving, eAPnH is eAP without factoring in hit, eAP.2H is eAP factoring in .2% hit if the ring is used to hitcap with Eye of Nerub.  This table probably isn't very useful to most but its here.
+
+Ring of Fury, Ring of Qiraji Fury, and Seal of the Gurubashi Berserker we dropped from the list as they arn't very good.
 
 
 
