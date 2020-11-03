@@ -90,9 +90,9 @@ This table changes very little from phase 5 to phase 6 for normal weavers.  For 
 
 ## Ranged Stat Stick Weapon eAP
 
-The six best stat stick weapons this phase all have 1% hit on them.  Hell, Kingsfall is so good that it still beats Hatchet of Sundered Bone's eAP without factoring in hit.  The hit gained on these is far more efficient than getting hit from rings.  As such, ranged hunters will transition into getting 2% of their hit from their weapons this phase.
+The six best stat stick weapons this phase all have 1% hit on them.  Hell, Kingsfall is so good that it still beats Hatchet of Sundered Bone's eAP without factoring in hit.  The hit gained on these is far more efficient than getting hit from rings.  As such, ranged hunter BiS will transition into getting 2% hit from weapons this phase.
 
-While the weapons below are our BiS this phase, the first 5 are all also empirically better upgrades for equally performing melee than hunters.  Showing this list to your raid lead and demanding any of them is silly, but we're also not your parents and different raids function differently.  If you are able to secure prio and eventually get your hands on any of them, congrats!  Do put yourself in other's shoes though, and realize how frustrated you would be if Nerubian Slavemaker (warrior BiS btw) went to a melee over you.  _Work with your raid leaders, loot council, and melee to find compromises that suit all of you._
+**While the weapons below are our BiS this phase, the first 5 are all also empirically better upgrades for equally performing melee than hunters.**  Showing this list to your raid lead and demanding any of them is silly, but we're also not your parents and different raids function differently.  If you are able to secure prio and eventually get your hands on any of them, congrats!  Do put yourself in other's shoes though, and realize how frustrated you would be if Nerubian Slavemaker (warrior BiS btw) went to a melee over you.  _Work with your raid leaders, loot council, and melee to find compromises that suit all of you._
 
 | Weapon | Base | Kings | ZG | Kings + ZG |
 |---|---|---|---|---|
